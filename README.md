@@ -9,8 +9,8 @@ Um jovem desenvolvedor front-end sempre buscando evoluir e melhorar em todos os 
 
 ### 🚀 Alguns projetos bacanas:
 - [Meu portfólio](https://github.com/sozua/portfolio): Meu site pessoal feito usando Gatsby.js
-- [🚀 Sky lab Clone](https://github.com/sozua/skylab): 🚀 Clone da interface e funcionamentos da plataforma de cursos "Sky lab"
-- [🚂 'Rails movies site'](https://github.com/sozua/rails-movies-site): 🚂 Um site simples de filmes feito em Rails (Feito somente para treinar CRUD)
+- [🤖 Bot Discord](https://github.com/sozua/DiscordBot): Bot criado para o Desafio333 do canal [CodigoFalado](https://www.twitch.tv/codigofalado)
+- [🚂 'Rails movies site'](https://github.com/sozua/rails-movies-site): Um site simples de filmes feito em Rails (Feito somente para treinar CRUD)
 
 ### 📓 O que ando estudando:
 - ReactJS
