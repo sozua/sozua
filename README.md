@@ -18,4 +18,6 @@ Um jovem desenvolvedor front-end sempre buscando evoluir e melhorar em todos os 
 - Wordpress CMS
 - NodeJS
 
-### Conheça também o meu [portfólio online](https://sozua.me)
+### Conheça também o meu [portfólio online](https://sozua.me)  
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sozua&show_icons=true" alt="sozua" />
