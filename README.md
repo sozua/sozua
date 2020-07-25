@@ -18,4 +18,4 @@ Um jovem desenvolvedor front-end sempre buscando evoluir e melhorar em todos os 
 - Wordpress CMS
 - NodeJS
 
-### Conheça também o meu [portfólio online](https://sozua.me) 
+### Conheça também o meu [portfólio online](https://sozua.dev) 
