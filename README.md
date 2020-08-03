@@ -12,9 +12,8 @@ Um jovem desenvolvedor front-end sempre buscando evoluir e melhorar em todos os 
 - [🚂 'Rails movies site'](https://github.com/sozua/rails-movies-site): Um site simples de filmes feito em Rails (Feito somente para treinar CRUD)
 
 ### 📓 O que ando estudando:
-- ReactJS
-- GatsbyJS
-- Wordpress CMS
-- NodeJS
+- Javascript ES6 
+- React
+- Node
 
 ### Conheça também o meu [portfólio online](https://sozua.dev) 
