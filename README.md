@@ -16,6 +16,6 @@ Um jovem desenvolvedor front-end sempre buscando evoluir e melhorar em todos os 
 ### 📓 O que ando estudando:
 - Javascript ES6 
 - React
-- Node
+- Node.JS
 
 ### Conheça também o meu [portfólio online](https://sozua.dev) 
