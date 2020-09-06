@@ -1,6 +1,6 @@
-# 👋 Diogo de Souza (sozua)
+<h1 align="center">Prazer, Diogo 😁👋.</h1>
 
-Desenvolvedor Front-end
+Um jovem desenvolvedor Front-end
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0661D1?style=flat-square&labelColor=0661D1&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sozua/)](https://www.linkedin.com/in/sozua/) 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-0661D1?style=flat-square&labelColor=0661D1&logo=twitter&logoColor=white&link=https://twitter.com/rychillie)](https://twitter.com/sozuad)
