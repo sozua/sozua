@@ -1,7 +1,6 @@
 <h1 align="center">Prazer, Diogo 😁👋.</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0661D1?style=flat-square&labelColor=0661D1&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sozua/)](https://www.linkedin.com/in/sozua/) 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-0661D1?style=flat-square&labelColor=0661D1&logo=twitter&logoColor=white&link=https://twitter.com/rychillie)](https://twitter.com/sozuad)
 [![Gmail Badge](https://img.shields.io/badge/-diogo@sozua.dev-0661D1?style=flat-square&label-color=0661D1&logo=Gmail&logoColor=white&link=mailto:diogo@sozua.dev)](mailto:diogo@sozua.dev)
 
 Desenvolvedor front-end com interesse em UI/UX Design. 
