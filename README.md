@@ -5,10 +5,6 @@
 
 Desenvolvedor front-end com interesse em UI/UX Design. 
 
-### 🚀 Alguns projetos bacanas:
-- [Meu portfólio](https://github.com/sozua/portfolio): Meu site pessoal feito usando Gatsby.js
-- [🤖 Bot Discord](https://github.com/sozua/DiscordBot): Bot criado para o Desafio333 do canal [CodigoFalado](https://www.twitch.tv/codigofalado)
-
 ### 📓 O que ando estudando:
 - Next.js
 - Node.js
