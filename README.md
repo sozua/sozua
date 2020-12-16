@@ -8,10 +8,10 @@
 - Estrutura de dados
 - Progressive Web Apps
 - SSR
-- Um pouco de infraestrutura
+- Amazon AWS
 
 
-⚡ Um pouco mais sobre mim: 
+### ⚡ Um pouco mais sobre mim: 
   - Além de programação, me interesso bastante por jogos (principalmente FPS's)
   - Também gosto de estudar assuntos de diversas outras áreas. Cinematografia, filosofia, psicologia e teologia são alguns exemplos 🤪. 
 
