@@ -8,8 +8,6 @@
 - Estrutura de dados
 - Progressive Web Apps
 - SSR
-- Amazon AWS
-
 
 ### ⚡ Algumas coisas sobre mim:
   - Além de programação, me interesso bastante por jogos (principalmente FPS's)
