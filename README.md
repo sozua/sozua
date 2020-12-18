@@ -6,7 +6,7 @@
 
 ### 📓 O que ando estudando:
 - Estrutura de dados
-- Progressive Web Apps
+- PWA
 - SSR
 
 ### ⚡ Algumas coisas sobre mim:
