@@ -9,9 +9,10 @@
 - PWA
 - SSR
 
-### ⚡ Algumas coisas sobre mim:
+<!-- ### ⚡ Algumas coisas sobre mim:
   - Além de programação, me interesso bastante por jogos (principalmente FPS's)
   - Também gosto de estudar assuntos de diversas outras áreas. Cinematografia, filosofia, psicologia e teologia são alguns exemplos 🤪. 
+-->
 
 ### Conheça também o meu [portfólio online](https://sozua.dev) 
 
