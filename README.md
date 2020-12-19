@@ -6,8 +6,8 @@
 
 ### 📓 O que ando estudando:
 - Estrutura de dados
-- PWA
-- SSR
+- Segurança na web
+- PWA e Usabilidade
 
 <!-- ### ⚡ Algumas coisas sobre mim:
   - Além de programação, me interesso bastante por jogos (principalmente FPS's)
