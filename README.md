@@ -5,9 +5,9 @@
 🎓 Cursando análise e desenvolvimento de sistemas pela UCA
 
 ### 📓 O que ando estudando:
-- Estrutura de dados
 - Segurança na web
 - PWA e Usabilidade
+- Paradigma Funcional e Elixir
 
 <!-- ### ⚡ Algumas coisas sobre mim:
   - Além de programação, me interesso bastante por jogos (principalmente FPS's)
