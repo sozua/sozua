@@ -1,8 +1,6 @@
 <h1 align="center">Prazer, Diogo 😁👋.</h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sozua&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-🎓 Cursando análise e desenvolvimento de sistemas pela UCA
+🎓 Atualmente estou análise e desenvolvimento de sistemas pela UCA
 
 ### 📓 O que ando estudando:
 - Segurança na web
@@ -13,6 +11,8 @@
   - Além de programação, me interesso bastante por jogos (principalmente FPS's)
   - Também gosto de estudar assuntos de diversas outras áreas. Cinematografia, filosofia, psicologia e teologia são alguns exemplos 🤪. 
 -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sozua&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Conheça também o meu [portfólio online](https://sozua.dev) 
 
